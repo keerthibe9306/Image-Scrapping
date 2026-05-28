@@ -1,0 +1,341 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.26:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.26:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 00:58:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.26:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:01:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:01:47] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.26:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:03:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:04:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:04:19] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:04:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:05:12] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:05:46] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:06:11] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:06:38] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:07:33] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:08:31] "[33mPOST /review HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_google.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_google.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_google.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_image_source.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_image_source.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_image_source.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+ERROR:root:403 Client Error: Forbidden for url: https://duckduckgo.com/i.js?q=cat&o=json&l=us-en
+Traceback (most recent call last):
+  File "D:\image scrapping\End-to-End-Image-Scraping\app.py", line 35, in index
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\keert\AppData\Roaming\Python\Python313\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://duckduckgo.com/i.js?q=cat&o=json&l=us-en
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:18:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_ddg.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_ddg.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_ddg.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.26:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_bing_iusc.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_bing_iusc.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_bing_iusc.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_bing_iusc.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+ERROR:root:403 Client Error: Forbidden for url: https://netart.commons.gc.cuny.edu/wp-content/blogs.dir/3087/files/memes/cat-meme-1024x682-1-1024x682.jpg
+Traceback (most recent call last):
+  File "D:\image scrapping\End-to-End-Image-Scraping\app.py", line 65, in index
+    image_response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\keert\AppData\Roaming\Python\Python313\site-packages\requests\models.py", line 1021, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://netart.commons.gc.cuny.edu/wp-content/blogs.dir/3087/files/memes/cat-meme-1024x682-1-1024x682.jpg
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:32:24] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:root:Skipping blocked or invalid image URL: https://netart.commons.gc.cuny.edu/wp-content/blogs.dir/3087/files/memes/cat-meme-1024x682-1-1024x682.jpg - 403 Client Error: Forbidden for url: https://netart.commons.gc.cuny.edu/wp-content/blogs.dir/3087/files/memes/cat-meme-1024x682-1-1024x682.jpg
+INFO:root:Skipping blocked or invalid image URL: https://www.publicdomainpictures.net/pictures/580000/velka/whimsical-cat-art-17076792156oE.jpg - 403 Client Error: Forbidden for url: https://www.publicdomainpictures.net/pictures/580000/velka/whimsical-cat-art-17076792156oE.jpg
+INFO:root:Skipping blocked or invalid image URL: https://www.publicdomainpictures.net/pictures/560000/velka/katzen-kunst-malerei-abstrakt.jpg - 403 Client Error: Forbidden for url: https://www.publicdomainpictures.net/pictures/560000/velka/katzen-kunst-malerei-abstrakt.jpg
+INFO:root:Skipping blocked or invalid image URL: https://www.publicdomainpictures.net/pictures/570000/velka/image-1705137626dIQ.jpg - 403 Client Error: Forbidden for url: https://www.publicdomainpictures.net/pictures/570000/velka/image-1705137626dIQ.jpg
+INFO:root:Skipping blocked or invalid image URL: https://www.publicdomainpictures.net/pictures/690000/velka/katze-kunst-tier-illustration-1744316815BrR.jpg - 403 Client Error: Forbidden for url: https://www.publicdomainpictures.net/pictures/690000/velka/katze-kunst-tier-illustration-1744316815BrR.jpg
+INFO:root:MongoDB URI not configured or contains placeholder; skipping database save.
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:34:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:35:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:35:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:Skipping blocked or invalid image URL: https://files1.comics.org/img/gcd/covers_by_id/1346/w400/1346226.jpg?-2345678405159006305 - 403 Client Error: Forbidden for url: https://files1.comics.org/img/gcd/covers_by_id/1346/w400/1346226.jpg?-2345678405159006305
+INFO:root:Skipping blocked or invalid image URL: https://rea.ceibal.edu.uy/elp/la-ciencia-y-los-superheroes-hulk-y-su-adn/hulk_PNG38.png - 403 Client Error: Forbidden for url: https://rea.ceibal.edu.uy/elp/la-ciencia-y-los-superheroes-hulk-y-su-adn/hulk_PNG38.png
+INFO:root:Skipping blocked or invalid image URL: https://files1.comics.org/img/gcd/covers_by_id/761/w200/761139.jpg?-6001263343929818988 - 403 Client Error: Forbidden for url: https://files1.comics.org/img/gcd/covers_by_id/761/w200/761139.jpg?-6001263343929818988
+INFO:root:Skipping blocked or invalid image URL: https://files1.comics.org/img/gcd/covers_by_id/1169/w200/1169643.jpg?4543346293151248805 - 403 Client Error: Forbidden for url: https://files1.comics.org/img/gcd/covers_by_id/1169/w200/1169643.jpg?4543346293151248805
+INFO:root:Skipping blocked or invalid image URL: https://files1.comics.org/img/gcd/covers_by_id/1346/w400/1346226.jpg?-2345678405159006305 - 403 Client Error: Forbidden for url: https://files1.comics.org/img/gcd/covers_by_id/1346/w400/1346226.jpg?-2345678405159006305
+INFO:root:Skipping blocked or invalid image URL: https://i.ytimg.com/vi/L1Eilf_TnJU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYNiBaKHIwDw==&rs=AOn4CLAX2iQXJ3IcEPXP4NUZuSyH5XX3cw - 404 Client Error: Not Found for url: https://i.ytimg.com/vi/L1Eilf_TnJU/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYNiBaKHIwDw==&rs=AOn4CLAX2iQXJ3IcEPXP4NUZuSyH5XX3cw
+INFO:root:Skipping blocked or invalid image URL: https://files1.comics.org/img/gcd/covers_by_id/761/w200/761139.jpg?-6001263343929818988 - 403 Client Error: Forbidden for url: https://files1.comics.org/img/gcd/covers_by_id/761/w200/761139.jpg?-6001263343929818988
+INFO:root:MongoDB URI not configured or contains placeholder; skipping database save.
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:36:31] "POST /review HTTP/1.1" 200 -
+INFO:root:MongoDB URI not configured or contains placeholder; skipping database save.
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:36:35] "POST /review HTTP/1.1" 200 -
+INFO:root:Skipping blocked or invalid image URL: https://netart.commons.gc.cuny.edu/wp-content/blogs.dir/3087/files/memes/cat-meme-1024x682-1-1024x682.jpg - 403 Client Error: Forbidden for url: https://netart.commons.gc.cuny.edu/wp-content/blogs.dir/3087/files/memes/cat-meme-1024x682-1-1024x682.jpg
+INFO:root:Skipping blocked or invalid image URL: https://www.publicdomainpictures.net/pictures/580000/velka/whimsical-cat-art-17076792156oE.jpg - 403 Client Error: Forbidden for url: https://www.publicdomainpictures.net/pictures/580000/velka/whimsical-cat-art-17076792156oE.jpg
+INFO:root:Skipping blocked or invalid image URL: https://www.publicdomainpictures.net/pictures/560000/velka/katzen-kunst-malerei-abstrakt.jpg - 403 Client Error: Forbidden for url: https://www.publicdomainpictures.net/pictures/560000/velka/katzen-kunst-malerei-abstrakt.jpg
+INFO:root:Skipping blocked or invalid image URL: https://www.publicdomainpictures.net/pictures/570000/velka/image-1705137626dIQ.jpg - 403 Client Error: Forbidden for url: https://www.publicdomainpictures.net/pictures/570000/velka/image-1705137626dIQ.jpg
+INFO:root:Skipping blocked or invalid image URL: https://www.publicdomainpictures.net/pictures/690000/velka/katze-kunst-tier-illustration-1744316815BrR.jpg - 403 Client Error: Forbidden for url: https://www.publicdomainpictures.net/pictures/690000/velka/katze-kunst-tier-illustration-1744316815BrR.jpg
+INFO:root:MongoDB URI not configured or contains placeholder; skipping database save.
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 01:37:30] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_image_source.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_image_source.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_image_source.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\image scrapping\\End-to-End-Image-Scraping\\debug_image_source.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug: * Debugger PIN: 131-864-710
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.26:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 465-644-950
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.168.1.26:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 465-644-950
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 17:10:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 17:10:11] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 17:10:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Skipping blocked or invalid image URL: https://vetmed.tamu.edu/news/wp-content/uploads/sites/9/2024/04/Dog-Aging-Infographic_InstaFB-1-1024x1024.png - 404 Client Error: Not Found for url: https://vetmed.tamu.edu/news/wp-content/uploads/sites/9/2024/04/Dog-Aging-Infographic_InstaFB-1-1024x1024.png
+INFO:root:Skipping blocked or invalid image URL: https://i0.hippopx.com/photos/80/926/522/dog-agility-jump-border-terrier-canine-thumb.jpg - 403 Client Error: Forbidden for url: https://i0.hippopx.com/photos/80/926/522/dog-agility-jump-border-terrier-canine-thumb.jpg
+INFO:root:MongoDB URI not configured or contains placeholder; skipping database save.
+INFO:werkzeug:127.0.0.1 - - [28/May/2026 17:11:03] "POST /review HTTP/1.1" 200 -
